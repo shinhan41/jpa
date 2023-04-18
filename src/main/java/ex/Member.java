@@ -31,4 +31,5 @@ public class Member {
     @OneToOne(mappedBy = "member")
     private Locker locker;
 
+
 }

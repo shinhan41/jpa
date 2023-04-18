@@ -1,12 +1,13 @@
 package ex;
 
+import ex.Enum.DeliveryStatus;
+import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
 
-@Getter
-@Setter
+@Data
 @Entity
 @Table(name = "delivery")
 public class Delivery {

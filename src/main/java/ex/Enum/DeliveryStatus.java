@@ -1,7 +1,7 @@
-package ex;
+package ex.Enum;
 
 public enum DeliveryStatus {
 
-    sttus
+    status
 
 }

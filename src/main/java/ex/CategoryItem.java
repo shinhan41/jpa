@@ -1,5 +1,6 @@
 package ex;
 
+import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -8,8 +9,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-@Getter
-@Setter
+@Data
 @Entity
 @Table(name = "category_item")
 public class CategoryItem {

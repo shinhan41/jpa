@@ -1,5 +1,6 @@
 package ex;
 
+import ex.Enum.OrderStatus;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

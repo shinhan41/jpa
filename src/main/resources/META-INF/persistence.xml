@@ -6,7 +6,6 @@
         <class>ex.Order</class>
         <class>ex.Delivery</class>
         <class>ex.OrderItem</class>
-        <class>ex.a.ItemCategory</class>
         <class>ex.Category</class>
         <class>ex.Item</class>
         <class>ex.CategoryItem</class>
